@@ -15,7 +15,9 @@ function sortAccountsByLastName(accounts) {
 }
 /* It returns a sorted array of the provided account objects. The objects are sorted alphabetically by last name. */
 
-function getTotalNumberOfBorrows(account, books) {}
+function getTotalNumberOfBorrows(account, books) {
+  const 
+}
 
 function getBooksPossessedByAccount(account, books, authors) {}
 
